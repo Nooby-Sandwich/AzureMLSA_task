@@ -35,8 +35,12 @@ const siteProps = {
   youTube: "Code",
 };
 
-const primaryColor = "#4E567E";
-const secondaryColor = "#6F5";
+const primaryColor = "#4E567E"; // Dark Blue
+const secondaryColor = "#6F5";  // Green
+
+// Contrasting colors:
+const contrastingPrimaryColor = "#F2C94C";  // Golden Yellow
+const contrastingSecondaryColor = "#EB5757";  // Red
 
 const App = () => {
   return (
