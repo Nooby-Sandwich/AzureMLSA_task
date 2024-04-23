@@ -30,9 +30,6 @@ const siteProps = {
   gitHub: "https://github.com/Nooby-Sandwich",
   instagram: "https://www.instagram.com/mantriavin/",
   linkedIn: "https://www.linkedin.com/in/avin-mantri/",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
 };
 
 const primaryColor = "#4E567E"; // Dark Blue
